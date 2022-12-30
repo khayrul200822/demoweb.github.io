@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>create website layout</title>
+		<script src="https://kit.fontawesome.com/21c0f4e287.js" crossorigin="anonymous"></script>
+		<link rel='stylesheet' type='text/css' href='layout.css'/>
+	</head>
+	<body>
+		<header>
+			<div class='topbar'>		
+				<div class='parants'>
+					<div class='topbar2'>
+						<div class='child1'>
+				
+							<i class="fa-solid fa-phone-flip"></i> phone: +(98) 888 7777
+						</div>
+						<div class='child2'>
+							<i class="fa-solid fa-envelope"></i> E-mail: sample-email@example.com
+						</div>
+						<div class='child3'>					
+							<a class='link1' href='#'><i class="fa-brands fa-facebook"></i></a>
+							<a class='link2' href='#'><i class="fa-brands fa-twitter"></i></a>
+							<a class='link3' href='#'><i class="fa-brands fa-linkedin"></i></a>
+						</div>
+					</div>	
+				</div>
+			</div>
+			
+			<div class='header2'>
+				<div class='parants'>
+					<div class='header-wrapper'>
+					<div class='logo1'>
+							<img  src='http://themelazer.info/html/brigate/image/logo.svg'/>
+					</div>
+					<div class='head-manubar'>
+						<ul class='manubar'>
+							<li><a href='#'>home</a>
+							
+								<ul class='submenu'>
+								
+									<li><a href='#'>Home 1</a></li>
+									<li><a href='#'>Home 2</a>
+										<ul class='submenu2'>
+											<li><a href='#'>services</a></li>
+											<li><a href='#'>Pages</a></li>
+											<li><a href='#'>Blog</a></li>
+											<li><a href='#'>contact</a></li>
+											<li><a href='#'>Projects</a></li>
+											<li><a href='#'>Projects1</a></li>
+											<li><a href='#'>Projects2</a></li>
+											<li><a href='#'>Projects3</a></li>
+											<li><a href='#'>Projects4</a></li>
+											<li><a href='#'>Projects5</a></li>
+										</ul>
+									
+									</li>
+									<li><a href='#'>Home 3</a></li>
+									<li><a href='#'>Home 4</a></li>
+								</ul>
+							</li>
+							<li><a href='#'>services</a>
+								
+								<ul class='submenu'>
+											<li><a href='#'>services</a></li>
+											<li><a href='#'>Pages</a></li>
+											<li><a href='#'>Blog</a></li>
+											<li><a href='#'>contact</a></li>
+											<li><a href='#'>Projects</a></li>
+											<li><a href='#'>Projects1</a></li>
+											<li><a href='#'>FQES</a></li>
+											<li><a href='#'>Projects3</a></li>
+											<li><a href='#'>Projects4</a></li>
+											<li><a href='#'>Projects5</a></li>
+										</ul>
+									
+								
+							</li>
+							<li><a href='#'>Pages</a>
+									<ul class='submenu'>
+											<li><a href='#'>services</a></li>
+											<li><a href='#'>Pages</a></li>
+											<li><a href='#'>Blog</a></li>
+											<li><a href='#'>contact</a></li>
+											<li><a href='#'>Projects</a></li>
+											
+										</ul>
+							
+							
+							</li>
+							<li><a href='#'>Blog</a>
+									<ul class='submenu'>
+											<li><a href='#'>services</a></li>
+											<li><a href='#'>Pages</a></li>
+											<li><a href='#'>Blog</a></li>
+											<li><a href='#'>contact</a></li>
+											<li><a href='#'>Projects</a></li>
+											
+										</ul>
+							
+							</li>
+							<li><a href='#'>contact</a>
+							
+								<ul class='submenu'>
+											<li><a href='#'>services</a></li>
+											<li><a href='#'>Pages</a></li>
+											
+											
+										</ul>
+							</li>
+							<li><a href='#'>Projects</a>
+								<ul class='submenu'>
+											<li><a href='#'>services</a></li>
+											<li><a href='#'>Pages</a></li>
+											<li><a href='#'>Pages fort</a></li>
+											
+											
+										</ul>
+							
+							</li>
+							<li class='lastchild'><a href='#'><i class="fa-solid fa-magnifying-glass"></i></a></li>
+						</ul>
+					</div>
+					</div>
+				</div>		
+			</div>
+		</header>
+		<section id='slidersection'>
+			<div class='parants'>
+				<div class='slidercontent'>
+				<h1>Experience Is Better Way To Build Success</h1>
+				<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet ut imperdiet eu, iaculis a sem.</p>
+				<button id='sliderbutton'>WORK WITH US</button>
+					<div class='slideroption'>
+						<span>
+						
+						</span>
+							
+						<span>
+						
+						</span>
+					</div>
+				</div>
+				
+			</div>
+		
+		
+		</section>
+		<section class='servicesiteams'>
+			<div class='parants'>
+				<div class='services'>
+					<div class='singlebox'>
+						<div class='singleboxicon'>
+							<i class="fa-solid fa-circle-question"></i>
+						</div>
+					
+						<div class='singleboxheader'>
+							<h1>ARCHITECTURE & ENGINEERING</h1>
+						</div>
+						
+						<div class='singleboxmiddle'>
+							<p>mauris mattis auctor tellus imperdiet eu ut imperdiet tellus. imperdiet ut</p>
+						</div>
+						
+						<div class='singleboxfooter'>
+							<span><a href='#'>Learn more  <i class="fa-solid fa-arrow-right-long"></i></a></span>
+						</div>
+					</div>
+					
+					<div class='singlebox'>
+						<div class='singleboxicon'>
+							<i class="fa-solid fa-circle-question"></i>
+						</div>
+					
+						<div class='singleboxheader'>
+							<h1>CONSULTENT & PREPARATION </h1>
+						</div>
+						
+						<div class='singleboxmiddle'>
+							<p>mauris mattis auctor tellus imperdiet eu ut imperdiet tellus. imperdiet ut</p>
+						</div>
+						
+						<div class='singleboxfooter'>
+							<span><a href='#'>Learn more  <i class="fa-solid fa-arrow-right-long"></i></a></span>
+						</div>
+					</div>
+					
+					<div class='singlebox'>
+						<div class='singleboxicon'>
+							<i class="fa-solid fa-circle-question"></i>
+						</div>
+					
+						<div class='singleboxheader'>
+							<h1>INFRASTUCTURE & CASTOMIGING </h1>
+						</div>
+						
+						<div class='singleboxmiddle'>
+							<p>mauris mattis auctor tellus imperdiet eu ut imperdiet tellus. imperdiet ut</p>
+						</div>
+						
+						<div class='singleboxfooter'>
+							<span><a href='#'>Learn more  <i class="fa-solid fa-arrow-right-long"></i></a></span>
+						</div>
+					</div>
+					<div class='singlebox'>
+						<div class='singleboxicon'>
+							<i class="fa-solid fa-circle-question"></i>
+						</div>
+					
+						<div class='singleboxheader'>
+							<h1>BUILDER WITH ENGINEARING  </h1>
+						</div>
+						
+						<div class='singleboxmiddle'>
+							<p>mauris mattis auctor tellus imperdiet eu ut imperdiet tellus. imperdiet ut</p>
+						</div>
+						
+						<div class='singleboxfooter'>
+							<span><a href='#'>Learn more  <i class="fa-solid fa-arrow-right-long"></i></a></span>
+						</div>
+					</div>														
+				</div>
+				</div>
+			</div>
+		</section>
+		
+		<section class='teamwhole'>
+			<div class='parants'>
+				<div class='teamwraper'>
+					<div class='teampicture'>
+						<img src='image/austin-distel-Imc-IoZDMXc-unsplash.jpg'/>
+					</div>
+					<div class='teamdetails'>
+						<div class='tsectionheader'>
+							<h2>WOEK WITH OUR TEAMS</h2>
+							<p>Maurls mattls auctor cursus. Phaselius tellus tellus, imperdiet ut imperdieteu. laculis a seam. Donec vehicula luchus nunc in laoreet. Allquam erat volupat . Suspendisse vulputate porttitor condimentum. Prolin viverra orck a lei suscipit placerat, Sed feuglat posurer semper.Crass vitar mill erat.</p>
+						</div>
+						<div class='tsectionUL'>
+							<ul class='ulone'>
+								<li><i class="fa-solid fa-greater-than"></i> <a href='#'>Buliding Quality </a></li>
+								<li><i class="fa-solid fa-greater-than"></i> <a href='#'> Honest Advisors </a></li>
+								<li><i class="fa-solid fa-greater-than"></i> <a href='#'>14/week supports  </a></li>
+							</ul>
+							
+							<ul class='ultwo'>
+							<li><i class="fa-solid fa-greater-than"></i> <a href='#'>performances Team</a></li>
+							<li><i class="fa-solid fa-greater-than"></i> <a href='#'> Work Solution</a></li>
+							<li><i class="fa-solid fa-greater-than"></i> <a href='#'> Work & Solution</a></li>
+							</ul>
+						</div>
+						<div class='tsectionButton'>
+							<span><a href='#'>Get start</a></span>
+						</div>
+					
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class='whychosec'>
+			<div class='parants'>
+				<div class='whywraper'>
+					<div class='mainwhybox'>
+						<i class="fa-solid fa-maximize"></i>
+						<h1>1200</h1>
+						<h4>HAPPYNESS CASTOMERS</h4>
+					</div>
+					<div class='mainwhybox'>
+						<i class="fa-solid fa-map-location-dot"></i>
+						<h1>2080</h1>
+						<h4>PROJECTS COMPLETED</h4>
+					</div>
+					<div class='mainwhybox'>
+						<i class="fa-solid fa-wand-magic-sparkles"></i>
+						<h1>4000</h1>
+						<h4>WORLD BRANCHED</h4>
+					</div>
+					<div class='mainwhybox'>
+						<i class="fa-brands fa-cc-mastercard"></i>
+						<h1>100</h1>
+						<h4>SPECIAL WINNER </h4>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section id='postsection'>
+			<div class='parants'>
+				<div class='postheader'>
+					<h2>MORE FROM US</h2>
+					<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+						Phasellus tellus tellus, imperdiet ut imperdiet eu</p>
+				</div>
+				<div class='postsectionwraper'>
+					<div class='singlePbox'>
+						<img src='image/service-item1.jpg'/>
+						<h3>CONSTRUCTION TEAM</h3>
+						<p>Ut et congue augue. Maecenas fermentum vel ante a aliquam. Etiam viverra maximus</p>
+					</div>
+					
+					<div class='singlePbox'>
+						<img src='image/service-item2.jpg'/>
+						<h3> PROJECT DEADLINE</h3>
+						<p>Ut et congue augue. Maecenas fermentum vel ante a aliquam. Etiam viverra maximus</p>
+					</div>
+					
+					<div class='singlePbox'>
+						<img src='image/service-item3.jpg'/>
+						<h3>CONSTRUCTION ACTIVITY</h3>
+						<p>Ut et congue augue. Maecenas fermentum vel ante a aliquam. Etiam viverra maximus</p>
+					</div>
+					
+					<div class='singlePbox'>
+						<img src='image/service-item4.jpg'/>
+						<h3> OUR BEST PROJECT</h3>
+						<p>Ut et congue augue. Maecenas fermentum vel ante a aliquam. Etiam viverra maximus</p>
+					</div>
+					
+				</div>
+			</div>
+		</section>
+		<section class='pricein'>
+			<div class='parants'>				
+			
+			
+				<div class='pricesectionheader'>
+					<h2> PRICE IN</h2>
+					<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+						Phasellus tellus tellus, imperdiet ut imperdiet eu</p>
+				</div>
+				<div class='pricesectionwraper'>
+				<div class='Psinglebox'>
+					<h3>START</h3>
+					<h1>$59<span>/m</span></h1>
+					<ul>
+						<li><i class="fa-solid fa-check"></i> our team is so good</li>
+						<li><i class="fa-solid fa-check"></i> meet with our team</li>
+						<li><i class="fa-solid fa-check"></i> threr are many </li>
+						<li><i class="fa-solid fa-check"></i> our team always</li>
+						<li><i class="fa-solid fa-check"></i> who are you</li>
+						<li><i class="fa-solid fa-check"></i> what is your team name</li>
+						<li><i class="fa-solid fa-check"></i> how mach you found</li>
+					</ul>
+					<button>GET STARTED</button>
+				</div>
+				<div class='Psinglebox'>
+					<h3>PRO</h3>
+					<h1>$100<span>/m</span></h1>
+					<ul>
+						<li><i class="fa-solid fa-check"></i> our team is so good</li>
+						<li><i class="fa-solid fa-check"></i> meet with our team</li>
+						<li><i class="fa-solid fa-check"></i> threr are many </li>
+						<li><i class="fa-solid fa-check"></i> our team always </li>
+						<li><i class="fa-solid fa-check"></i> who are you</li>
+						<li><i class="fa-solid fa-check"></i> what is your team name</li>
+						<li><i class="fa-solid fa-check"></i> how mach you found</li>
+					</ul>
+					<button>GET STARTED</button>
+				</div>
+				<div class='Psinglebox'>
+					<h3>PREMIUM</h3>
+					<h1>$140<span>/m</span></h1>
+					<ul>
+						<li><i class="fa-solid fa-check"></i> our team is so good</li>
+						<li><i class="fa-solid fa-check"></i> meet with our team</li>
+						<li><i class="fa-solid fa-check"></i> threr are many kind </li>
+						<li><i class="fa-solid fa-check"></i> our team always </li>
+						<li><i class="fa-solid fa-check"></i> who are you</li>
+						<li><i class="fa-solid fa-check"></i> what is your</li>
+						<li><i class="fa-solid fa-check"></i> how mach you found</li>
+					</ul>
+					<button>GET STARTED</button>
+				</div>
+			</div>
+		</div>
+		</section>
+		
+		<section class='ideasection'>
+			<div class='ideaImg'>
+			
+			</div>
+			<div class='ideaContent'>
+				<div class='ideasubContent'>
+					<div class='ideaheader'>
+						<h1>CHECK OUT OUR LATEST IDEA</h1>
+						<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+							Phasellus tellus tellus, imperdiet ut imperdiet eu.</p>
+						
+					</div>
+					<div class='ideabody'>
+						<div class='ideasinglebox'>
+							<div class='idsectionicon'>
+								<i class="fa-solid fa-blog"></i>
+							</div>
+							<div class='ideaReport'>
+								<h3>GREATE SUPPORT</h3>
+								<p>Best Service For Customer</p>
+							</div>
+						</div>
+						
+							<div class='ideasinglebox'>
+							<div class='idsectionicon'>
+								<i class="fa-solid fa-blog"></i>
+							</div>
+							<div class='ideaReport'>
+								<h3>GREATE SUPPORT</h3>
+								<p>Best Service For Customer</p>
+							</div>
+						</div>
+						
+							<div class='ideasinglebox'>
+							<div class='idsectionicon'>
+								<i class="fa-solid fa-blog"></i>
+							</div>
+							<div class='ideaReport'>
+								<h3>GREATE SUPPORT</h3>
+								<p>Best Service For Customer</p>
+							</div>
+						</div>
+						
+							<div class='ideasinglebox'>
+							<div class='idsectionicon'>
+								<i class="fa-solid fa-blog"></i>
+							</div>
+							<div class='ideaReport'>
+								<h3>GREATE SUPPORT</h3>
+								<p>Best Service For Customer</p>
+							</div>
+						</div>
+						
+						
+					
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section class='ourteamsection'>
+			<div class='parants'>
+				<div class='ourteamHeader'>
+					<h1>MEET OUR TEAM</h1>
+					<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+							Phasellus tellus tellus, imperdiet ut imperdiet eu.</p>
+				</div>
+				<div class='ourteamboxes'>
+					<div class='ourteamsinglebox'>
+						<div class='teamimage'>
+							<img src='image/1.jpg'/>
+							<div class='imageicon'>
+								<a href='#'><i class="fa-brands fa-facebook-f"></i></a>
+								<a href='#'><i class="fa-brands fa-twitter"></i></a>
+								<a href='#'><i class="fa-brands fa-google-plus-g"></i></a>
+								<a href='#'><i class="fa-brands fa-linkedin-in"></i></a>
+							</div>
+						
+						</div>
+						<div class='singleboxbody'>
+							<h3>JONH WELSON</h3>
+							<p>Civil Engineer</p>
+						</div>
+					</div>
+					
+					
+					
+					<div class='ourteamsinglebox'>
+						<div class='teamimage'>
+							<img src='image/2.jpg'/>
+							<div class='imageicon'>
+								<a href='#'><i class="fa-brands fa-facebook-f"></i></a>
+								<a href='#'><i class="fa-brands fa-twitter"></i></a>
+								<a href='#'><i class="fa-brands fa-google-plus-g"></i></a>
+								<a href='#'><i class="fa-brands fa-linkedin-in"></i></a>
+							</div>
+						</div>
+						<div class='singleboxbody'>
+							<h3>JAME SON</h3>
+					<p>Achitechure Design</p>
+						</div>
+					</div>
+					
+					
+					
+					<div class='ourteamsinglebox'>
+						<div class='teamimage'>
+							<img src='image/3.jpg'/>
+							<div class='imageicon'>
+								<a href='#'><i class="fa-brands fa-facebook-f"></i></a>
+								<a href='#'><i class="fa-brands fa-twitter"></i></a>
+								<a href='#'><i class="fa-brands fa-google-plus-g"></i></a>
+								<a href='#'><i class="fa-brands fa-linkedin-in"></i></a>
+							</div>
+						</div>
+						<div class='singleboxbody'>
+							<h3>TONY TINY</h3>
+							<p>Civil Engineer</p>
+						</div>
+					</div>
+					
+
+					
+					<div class='ourteamsinglebox'>
+						<div class='teamimage'>
+							<img src='image/4.jpg'/>
+							<div class='imageicon'>
+								<a href='#'><i class="fa-brands fa-facebook-f"></i></a>
+								<a href='#'><i class="fa-brands fa-twitter"></i></a>
+								<a href='#'><i class="fa-brands fa-google-plus-g"></i></a>
+								<a href='#'><i class="fa-brands fa-linkedin-in"></i></a>
+							</div>
+						</div>
+						<div class='singleboxbody'>
+							<h3>TOM MAS</h3>
+					<p>Project Manager</p>
+						</div>
+					</div>
+					</div>
+					<div class='teambutton'>
+						<button><a href='#'>JOIN WITH US</a></button>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section id='projectsection'>
+			<div class='parants'>
+				<div class='teamproHEADER'>
+					<h1>OUR BEST PROJECT</h1>
+					<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+					Phasellus tellus tellus, imperdiet ut imperdiet eu.</p>
+				</div>
+				<div class='teamboxwrapper'>
+					<div class='singleteambox'>
+						<img src='image/project-1.jpg'/>
+						<div class='singleboxinfo'>
+							<a class='href1' href='#'>Construction</a>
+							<h3>DISCUSSION TO MAKE A BETTER PROJECT PLAN</h3>
+							<a class='href2' href='#'>Learn more <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					
+					<div class='singleteambox'>
+						<img src='image/project-2.jpg'/>
+						<div class='singleboxinfo'>
+							<a class='href1' href='#'>Repair</a>
+							<h3>DISCUSSION TO MAKE A BETTER PROJECT PLAN</h3>
+							<a class='href2' href='#'>Learn more <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					
+					<div class='singleteambox'>
+						<img src='image/project-3.jpg'/>
+						<div class='singleboxinfo'>
+							<a class='href1' href='#'>Hospital</a>
+							<h3>WE USE QUALITY MATERIAL TO BUILD FOR YOU</h3>
+							<a class='href2' href='#'>Learn more <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					
+					<div class='singleteambox'>
+						<img src='image/project-4.jpg'/>
+						<div class='singleboxinfo'>
+							<a class='href1' href='#'>School</a>
+							<h3>YOUR PROJECT WILL CLEAN AND BEST QUALITY</h3>
+							<a class='href2' href='#'>Learn more <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					
+					<div class='singleteambox'>
+						<img src='image/project-5.jpg'/>
+						<div class='singleboxinfo'>
+							<a class='href1' href='#'>House</a>
+							<h3>MASTER PLAN OF PROJECT IN THE YOUR CITY</h3>
+							<a class='href2' href='#'>Learn more <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					
+					<div class='singleteambox'>
+						<img src='image/project-6.jpg'/>
+						<div class='singleboxinfo'>
+							<a class='href1' href='#'>Interior</a>
+							<h3>ARCHITECTURE AND ENGINEERING ARE TOGETHER</h3>
+							<a class='href2' href='#'>Learn more <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					
+					
+				</div>
+			</div>
+		</section>
+		
+		<section id='latestNRWS'>
+			<div class='parants'>
+				<div class='nwestopHREADER'>
+					<h1>OUR LATEST NEWS</h1>
+					<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+					Phasellus tellus tellus, imperdiet ut imperdiet eu.</p>
+				</div>
+				<div class='newsboxwrapper'>
+					<div id='newssinglebox'>
+						<div class='newsimage'>
+							<img src='image/project-4.jpg'/>
+							
+						</div>
+						<div class='newsINFO'>
+							<div class='newsDATEandCOM'>
+								<a href='#'>19 Sep,2019</a>
+								<a href='#'>Comment (0)</a>
+							</div>
+							<div class='newsdetails'>
+								<h2><a href='#'>WE WORK HARD TO BULID</a></h2>
+								<p>Aliquam erat volutpar. Supendisse Suspen vulput port condimentum vuiput porttitor condimentum</p>
+								
+								<a href='#'>Read more <i class="fa-solid fa-arrow-right"></i></a>
+								
+								
+							</div>
+						</div>
+					</div>
+					
+					<div id='newssinglebox'>
+						<div class='newsimage'>
+							<img src='image/project-3.jpg'/>
+							
+						</div>
+						<div class='newsINFO'>
+							<div class='newsDATEandCOM'>
+								<a href='#'>19 Sep,2019</a>
+								<a href='#'>Comment (0)</a>
+							</div>
+							<div class='newsdetails'>
+								<h2><a href='#'>WE WORK HARD TO BULID</a></h2>
+								<p>Aliquam erat volutpar. Supendisse Suspen vulput port condimentum vuiput porttitor condimentum</p>
+								
+								<a href='#'>Read more <i class="fa-solid fa-arrow-right"></i></a>
+								
+								
+							</div>
+						</div>
+					</div>
+					
+					<div id='newssinglebox'>
+						<div class='newsimage'>
+							<img src='image/project-5.jpg'/>
+							
+						</div>
+						<div class='newsINFO'>
+							<div class='newsDATEandCOM'>
+								<a href='#'>19 Sep,2019</a>
+								<a href='#'>Comment (0)</a>
+							</div>
+							<div class='newsdetails'>
+								<h2><a href='#'>WE WORK HARD TO BULID</a></h2>
+								<p>Aliquam erat volutpar. Supendisse Suspen vulput port condimentum vuiput porttitor condimentum</p>
+								
+								<a href='#'>Read more <i class="fa-solid fa-arrow-right"></i></a>
+								
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		
+		<section id='subscribe-section'>
+			<div class='parants'>
+				<div class='position-look'>
+				<div class='subs-wrapper'>
+					<div class='Subscribe-single-box'>
+						<h3>SUBSCRIBE NOW</h3>
+						<input type='text' placeholder='Enter your e-mail'/>
+						<input type='submit' value='submit'/>
+					</div>
+					
+					<div class='Subscribe-single-box'>
+						<h3>CONTECTS US</h3>
+						<P>Call Us : +(98) 888 7777</P>
+						<P>Email Us : sample-email@example.com</P>
+					</div>
+					
+					<div class='Subscribe-single-box'>
+						<h3>FOLLOW US</h3>
+						<div class='subscribe-single-box-icon'>
+							<a href='#'><i class="fa-brands fa-facebook-f"></i></a>
+							<a href='#'><i class="fa-brands fa-twitter"></i></a>
+							<a href='#'><i class="fa-brands fa-google-plus-g"></i></a>
+							<a href='#'><i class="fa-brands fa-linkedin-in"></i></a>
+						</div>
+					</div>
+				</div>
+				</div>
+			</div>
+		</section>
+		
+		<section id='footer'>
+			<div class='parants'>
+				<div class='footerboxwrapper'>
+					<div class='fbox'>
+						<h3>ABOUT US</h3>
+						<p>Mauris mattis auctor cursus. Phasellus tellus tellus, imperdiet
+						Phasellus tellus tellus, imperdiet ut imperdiet eu.</p>
+						<div class='fbox1icon'>
+							<a href='#'><i class="fa-brands fa-facebook-f"></i></a>
+							<a href='#'><i class="fa-brands fa-twitter"></i></a>
+							<a href='#'><i class="fa-brands fa-google-plus-g"></i></a>
+							<a href='#'><i class="fa-brands fa-linkedin-in"></i></a>
+						</div>
+					</div>
+					
+					
+					<div class='fbox'>
+						<h3>CONTECT US</h3>
+						<div class='subBOX'>
+							<div class='subbox-icon'>
+							<a href='#'><i class="fa-solid fa-house-chimney"></i></a>
+							</div>
+							<div class='subbox-content'>
+							<p >Raffles Avenue, Singapore Flyer, Singapore</p>
+							</div>
+						</div>
+						
+						<div class='subBOX'>
+							<div class='subbox-icon'>
+								<a href='#'><i class="fa-solid fa-phone-flip"></i></a>
+							</div>
+							<div class='subbox-content'>
+								<p >+(98) 888 7777+(12) 999 22333</p>
+							</div>
+						</div>
+						
+						<div class='subBOX'>
+							<div class='subbox-icon'>
+								<a href='#'><i class="fa-solid fa-envelope"></i></a>
+							</div>
+							<div class='subbox-content'>
+								<p>sample-email@example.com myinfo@example.com</p>
+							</div>
+					
+						</div>
+					</div>
+					
+					
+					<div class='fbox'>
+						<h3>USEFULL LINK</h3>
+						<div class='fboxUL'>
+							<ul>
+								<li><a href='#'>Home</a></li>
+								<li><a href='#'>About Us</a></li>
+								<li><a href='#'>Services</a></li>
+								<li><a href='#'>News</a></li>
+								<li><a href='#'>Portfolio</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					
+					
+					<div class='fbox'>
+						<h3>RESENT POST</h3>
+						<div class='fbox-calander-info'>
+							<div class='fbox-calander-mate'>
+								<span>24</span>
+								<span  id='boxspan'>APRIL<br/>2019</span>
+							</div>
+							<div class='fbox-info'>
+								<h3>WHERE WE'RE STANDING RIGHT NOW</h3>
+								<span><i class="fa-solid fa-user"></i> By Admin</span>
+								<span><i class="fa-solid fa-comments"></i> 28</span>
+							</div>
+						</div>
+						
+						<div class='fbox-calander-info'>
+							<div class='fbox-calander-mate'>
+								<span>24</span>
+								<span id='boxspan'>APRIL<br/>2019</span>
+							</div>
+							<div class='fbox-info'>
+								<h3>AND MAYBE KNOWING ISN'T THE POINT</h3>
+								<span><i class="fa-solid fa-user"></i> By Admin</span>
+								<span><i class="fa-solid fa-comments"></i> 28</span>
+							</div>
+						</div>
+					</div>
+				
+			</div>
+		</div>
+			<div class='underground'>
+				<div class='parants'>
+					<div class='footercontent'>
+						<p>© Copyright 2019 themelazer.info All rights reserved.</p>
+					</div>
+				
+					<div class='footericon'>
+							<ul>
+								<li><a href='#'>FAQS </a></li>
+								<li> <a href='#'>Privacy </a></li>
+								<li> <a href='#'>Policy </a></li>
+								<li> <a href='#'>Support </a></li>
+							</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+		
+					
+		
+	</body>
+</html>
